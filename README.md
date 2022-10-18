@@ -2,5 +2,6 @@
 trabalho da diciplina Pensamento Computacional 
 Taislaine e Aline Cristina N: 30 e 45
 @Lizibugalski
-" Tudo vem do pó, e retorna ao pó... Tudo é pó-esia."
-![image](https://user-images.githubusercontent.com/107077051/183760548-07180828-b41b-4878-9abd-4f15020bd1e3.png)
+![image](https://user-images.githubusercontent.com/107077051/196522572-66056538-6b31-4bf9-86da-ed64db142261.png)
+"Na maioria das vezes a jornada, é muito mais importante que o destino da viagem."
+Carol Fernandes.
